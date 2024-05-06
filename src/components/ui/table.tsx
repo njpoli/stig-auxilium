@@ -1,5 +1,6 @@
 import * as React from 'react';
 
+// eslint-disable-next-line import/no-unresolved
 import { cn } from '@/lib/utils';
 
 const Table = React.forwardRef<
